@@ -1,0 +1,84 @@
+* {
+    background-color: antiquewhite;
+}
+
+.wrapper {
+    max-width: 1000px;
+    margin: 100px auto;
+    min-height: 500px;
+    padding: 30px;
+}
+
+.info {
+    height: 300px;
+    max-height: 500px;
+}
+
+.info .image {
+    float: left;
+    margin: 10px 10px 10px 0px;
+}
+
+.info img {
+    max-height: 300px;
+}
+
+.info .hero-info {
+    float: left;
+}
+
+.hero-info h2 {
+    margin-top: 10px;
+}
+
+.table {
+    clear: left;
+}
+
+.table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th {
+    margin: 0;
+    border: 1px solid black;
+    padding: 5px 15px 5px 5px;
+    font-weight: normal !important;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.form {
+    padding-top: 70px;
+    margin: 10px auto;
+}
+
+.form form {
+    justify-content: center;
+}
+
+.form input {
+    width: 100%;
+    padding: 5px;
+}
+
+.form fieldset {
+    width: 45%;
+    display: inline-block!important;
+    border: none;
+}
+
+.task2 {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
